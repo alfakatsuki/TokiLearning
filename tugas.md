@@ -1,4 +1,4 @@
-'''c
+```c
 #include <stdio.h>
 
 int A(int m, int n);
@@ -22,5 +22,5 @@ int A(int m, int n){
 		return A(m-1, A(m, n-1));
 	
 }
-'''
+```
 %tes
